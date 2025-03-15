@@ -2,7 +2,7 @@
 export const information = {
   businessName: "Panda Garage Door Company LLC",
   address: "27750 Co Rd 66",
-  city: "Denver City",
+  city: "Denver",
   state: "CO",
   zipCode: "80624",
   phone: "970-351-6172",
