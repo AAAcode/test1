@@ -1,8 +1,8 @@
 
 export const information = {
-  businessName: "Silverback Garage Door Company LLC",
+  businessName: "Panda Garage Door Company LLC",
   address: "27750 Co Rd 66",
-  city: "Gill",
+  city: "Denver City",
   state: "CO",
   zipCode: "80624",
   phone: "970-351-6172",
